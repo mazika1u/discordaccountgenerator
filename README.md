@@ -1,4 +1,6 @@
-# Discord Account Creator (教育目的サンプル)
+# Discord Account Creator
+
+使えるかは不明
 
 ⚠️ **重要な注意事項**
 
