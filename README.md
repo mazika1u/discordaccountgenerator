@@ -1,0 +1,2 @@
+# discordaccountgenerator
+使えるかわかんないdiscordaccountgenerator
